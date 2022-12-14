@@ -1,3 +1,6 @@
+python project for final
+Team: Kerimalieva Zarina, Amanbekova Aidai, Sanzharova Bermet, Kubanychbekov Nur Islam, Sattarov Asatbek.) 
+
 # Snake-game-
 import pygame
 import time
